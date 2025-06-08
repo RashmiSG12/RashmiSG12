@@ -1,4 +1,4 @@
-# Hi there, I'm RashmiSG12! 👋
+# Hi there, I'm Rashmi! 👋
 
 I'm a passionate developer who loves turning ideas into reality through code. Whether it's building robust backends or crafting beautiful user interfaces, I thrive on solving problems and learning something new every day.
 
