@@ -1,11 +1,23 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Rashmi S G</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi there, I'm RashmiSG12! 👋
 
-- 🔭 I’m currently working on **a document sorter project called Classifile**
+I'm a passionate developer who loves turning ideas into reality through code. Whether it's building robust backends or crafting beautiful user interfaces, I thrive on solving problems and learning something new every day.
 
-- 🌱 I’m currently learning **Java, FastAPI**
+## 🚀 Tech Stack
+- **Languages:** Java, Python, HTML, CSS
+- **Frameworks & Tools:** Bootstrap, FastAPI
 
+## 🌟 Featured Projects
+- **[classifile](#)**: An innovative project that's close to my heart.
+- **[the Chatty](#)**: A dynamic and interactive app to foster conversations.
+
+## 💡 About Me
+Driven by curiosity and creativity, I enjoy exploring new technologies and building projects that make a difference. I'm always eager to connect, collaborate, and share knowledge with the amazing developer community.
+
+Outside of coding, you'll find me brainstorming new ideas, learning about the latest tech trends, or enjoying a good cup of coffee ☕
+
+---
+
+Let's build, learn, and grow together! 🚀
 - 📫 How to reach me **rashmisg12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
